@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+upload.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Uniq	0b34_i-UsusNVRUOUsB1FwMAAAEBAFvdypIgRbDdKd8KVF-RGK2bmMagztRSnTPN
+upload.wikimedia.org	TRUE	/	FALSE	1999999999	SameSite	None
+
